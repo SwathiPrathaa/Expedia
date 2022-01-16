@@ -1,2 +1,2 @@
-# Hotel-Management-System
+# Trivago Clone
 Trivago Clone in C++
