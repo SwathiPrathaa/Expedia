@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1595590609 source:c:\users\dheek\desktop\new folder\samp\customer.cpp
+	<iostream>
+	"customer.h"
+	<string>
+	<string.h>
+	<fstream>
+	"user.h"
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<cstdio>
+
+1595316748 c:\users\dheek\desktop\new folder\samp\customer.h
+	"customer.h"
+
+1595506347 c:\users\dheek\desktop\new folder\samp\user.h
+
+1595590609 source:c:\users\dheek\desktop\new folder\samp\main.cpp
+	"userderived.h"
+	<iostream>
+	<stdlib.h>
+
+1595518449 c:\users\dheek\desktop\new folder\samp\userderived.h
+	"user.h"
+	<string.h>
+
+1595590609 source:c:\users\dheek\desktop\new folder\samp\user.cpp
+	"user.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"customer.h"
+
+1595590683 source:c:\users\dheek\desktop\new folder\samp\userderived.cpp
+	"userderived.h"
+	<iostream>
+	"customer.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
