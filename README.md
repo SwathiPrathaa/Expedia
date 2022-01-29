@@ -1,2 +1,2 @@
-# Trivago Clone
-Trivago Clone in C++
+# Expedia
+Expedia in C++
